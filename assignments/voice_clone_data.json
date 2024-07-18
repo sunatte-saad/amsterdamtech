@@ -1,0 +1,674 @@
+[
+    {
+        "id": "id0",
+        "model": "amitabhbachhan",
+        "transpose": -6,
+        "voice_name": "en-GB-ThomasNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id1",
+        "model": "BTS_jin",
+        "transpose": 0,
+        "voice_name": "en-US-GuyNeural-Male",
+        "speed": -30
+    },
+    {
+        "id": "id2",
+        "model": "amirkhan",
+        "transpose": 1,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id3",
+        "model": "adolfhitler",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 10
+    },
+    {
+        "id": "id4",
+        "model": "atifaslam",
+        "transpose": -6,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id5",
+        "model": "bartsimpson",
+        "transpose": -2,
+        "voice_name": "en-US-AvaNeural-Female",
+        "speed": 10
+    },
+    {
+        "id": "id6",
+        "model": "batman",
+        "transpose": 0,
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id7",
+        "model": "beyonce",
+        "transpose": -2,
+        "voice_name": "en-US-MichelleNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id8",
+        "model": "biden",
+        "transpose": 1,
+        "voice_name": "en-US-SteffanNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id9",
+        "model": "billgates",
+        "transpose": 1,
+        "voice_name": "en-US-GuyNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id10",
+        "model": "billieeilish",
+        "transpose": -1,
+        "voice_name": "en-US-AvaNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id11",
+        "model": "brunomars1",
+        "transpose": -2,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id12",
+        "model": "bugsbunny",
+        "transpose": 0,
+        "voice_name": "en-US-MichelleNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id13",
+        "model": "bugsbunny1",
+        "transpose": 0,
+        "voice_name": "en-US-MichelleNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id14",
+        "model": "buzzlightyear",
+        "transpose": -3,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id15",
+        "model": "casperMcFadden",
+        "transpose": 0,
+        "voice_name": "en-US-AnaNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id16",
+        "model": "christianoronaldo",
+        "transpose": -3,
+        "voice_name": "en-NZ-MitchellNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id17",
+        "model": "coach",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id18",
+        "model": "cortanamicrosoft",
+        "transpose": 0,
+        "voice_name": "en-US-AriaNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id19",
+        "model": "daffyduck",
+        "transpose": 4,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id20",
+        "model": "darthvader",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id21",
+        "model": "donaldduck",
+        "transpose": 3,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id22",
+        "model": "dracula",
+        "transpose": -7,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id23",
+        "model": "drake",
+        "transpose": 0,
+        "voice_name": "en-US-GuyNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id24",
+        "model": "drdre",
+        "transpose": 2,
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id25",
+        "model": "easyE",
+        "transpose": 1,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id26",
+        "model": "edwardnorton",
+        "transpose": -5,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id27",
+        "model": "elonmusk",
+        "transpose": -2,
+        "voice_name": "en-CA-LiamNeural-Male",
+        "speed": 10
+    },
+    {
+        "id": "id28",
+        "model": "eminem1",
+        "transpose": 2,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": 10
+    },
+    {
+        "id": "id29",
+        "model": "emmanueljacomy",
+        "transpose": -2,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id30",
+        "model": "emmanuelmacron",
+        "transpose": 0,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id31",
+        "model": "engineertf2",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id32",
+        "model": "freddiemercury",
+        "transpose": 0,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id33",
+        "model": "gollum",
+        "transpose": 0,
+        "voice_name": "en-US-EricNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id34",
+        "model": "harleyquinn",
+        "transpose": 1,
+        "voice_name": "en-AU-NatashaNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id35",
+        "model": "hulk",
+        "transpose": 0,
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id36",
+        "model": "ianmckellen",
+        "transpose": 3,
+        "voice_name": "en-GB-RyanNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id37",
+        "model": "johnelton",
+        "transpose": -2,
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id38",
+        "model": "johnkennedy",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id39",
+        "model": "johnlennon",
+        "transpose": -3,
+        "voice_name": "en-GB-RyanNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id40",
+        "model": "jojismithereen",
+        "transpose": -5,
+        "voice_name": "jojismithereen",
+        "speed": 0
+    },
+    {
+        "id": "id41",
+        "model": "jujutsukaisen",
+        "transpose": -1,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id42",
+        "model": "justinbieber1",
+        "transpose": 0,
+        "voice_name": "en-CA-LiamNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id43",
+        "model": "justintimberlake",
+        "transpose": -3,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id44",
+        "model": "justintrudeau",
+        "transpose": 2,
+        "voice_name": "en-CA-LiamNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id45",
+        "model": "kendricklamar",
+        "transpose": -3,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id46",
+        "model": "kevindurant",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id47",
+        "model": "kimkardashian",
+        "transpose": 2,
+        "voice_name": "en-US-AriaNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id48",
+        "model": "ladygaga",
+        "transpose": -2,
+        "voice_name": "en-IE-EmilyNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id49",
+        "model": "lebronjames",
+        "transpose": -1,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id50",
+        "model": "leonardodicaprio",
+        "transpose": 1,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id51",
+        "model": "lightningmcqueen",
+        "transpose": -2,
+        "voice_name": "lightningmcqueen",
+        "speed": -10
+    },
+    {
+        "id": "id52",
+        "model": "lildicky",
+        "transpose": 0,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id53",
+        "model": "lilwayne",
+        "transpose": -4,
+        "voice_name": "lightningmcqueen",
+        "speed": -10
+    },
+    {
+        "id": "id54",
+        "model": "lisasimpson",
+        "transpose": 0,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id55",
+        "model": "lula",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id56",
+        "model": "madonna1",
+        "transpose": 0,
+        "voice_name": "en-US-MichelleNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id57",
+        "model": "margesimpson",
+        "transpose": 0,
+        "voice_name": "en-US-AvaNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id58",
+        "model": "mario",
+        "transpose": -2,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id59",
+        "model": "mark zuckerberg",
+        "transpose": 0,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id60",
+        "model": "messi",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id61",
+        "model": "michaeljackson1",
+        "transpose": 0,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": -30
+    },
+    {
+        "id": "id62",
+        "model": "mickeymouse",
+        "transpose": 8,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id63",
+        "model": "mikeshinoda",
+        "transpose": 1,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id64",
+        "model": "mileycyrus",
+        "transpose": 0,
+        "voice_name": "en-US-EmmaNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id65",
+        "model": "morganfreeman",
+        "transpose": -9,
+        "voice_name": "en-US-SteffanNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id66",
+        "model": "mrbeast",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id67",
+        "model": "mrkrabs",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id68",
+        "model": "nawazddin zip",
+        "transpose": 0,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id69",
+        "model": "nehammer",
+        "transpose": 3,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id70",
+        "model": "nemo",
+        "transpose": 3,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id71",
+        "model": "obama1",
+        "transpose": -7,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id72",
+        "model": "optimusprime",
+        "transpose": -8,
+        "voice_name": "en-US-SteffanNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id73",
+        "model": "popeye",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id74",
+        "model": "queenelizabeth",
+        "transpose": 0,
+        "voice_name": "en-US-AvaNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id75",
+        "model": "rambo",
+        "transpose": -3,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id76",
+        "model": "rihanna1",
+        "transpose": -1,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id77",
+        "model": "rishisunak",
+        "transpose": 0,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id78",
+        "model": "robinwilliams",
+        "transpose": -5,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id79",
+        "model": "salmankhan",
+        "transpose": -8,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id80",
+        "model": "selena1",
+        "transpose": 0,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id81",
+        "model": "shakira",
+        "transpose": 0,
+        "voice_name": "en-US-EmmaNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id82",
+        "model": "shaqrvc",
+        "transpose": -5,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id83",
+        "model": "skrillex1",
+        "transpose": -1,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id84",
+        "model": "spongebobplakton",
+        "transpose": -2,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": 0
+    },
+    {
+        "id": "id85",
+        "model": "stevejobs",
+        "transpose": 3,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id86",
+        "model": "sylvester",
+        "transpose": -6,
+        "voice_name": "en-US-EmmaNeural-Female",
+        "speed": -10
+    },
+    {
+        "id": "id87",
+        "model": "terminator",
+        "transpose": -3,
+        "voice_name": "en-US-EricNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id88",
+        "model": "timcook",
+        "transpose": 5,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id89",
+        "model": "trump",
+        "transpose": 2,
+        "voice_name": "en-US-SteffanNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id90",
+        "model": "villager",
+        "transpose": 4,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id91",
+        "model": "vindiesel",
+        "transpose": -13,
+        "voice_name": "en-US-RogerNeural-Male",
+        "speed": -10
+    },
+    {
+        "id": "id92",
+        "model": "vladimir_putin",
+        "transpose": 0,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -20
+    },
+    {
+        "id": "id93",
+        "model": "wall-e",
+        "transpose": 0,
+        "voice_name": "en-US-BrianNeural-Male",
+        "speed": -30
+    },
+    {
+        "id": "id94",
+        "model": "whitneyhouston",
+        "transpose": 0,
+        "voice_name": "en-US-JennyNeural-Female",
+        "speed": 0
+    },
+    {
+        "id": "id95",
+        "model": "yoda",
+        "transpose": -7,
+        "voice_name": "en-US-AndrewNeural-Male",
+        "speed": -30
+    }
+]
